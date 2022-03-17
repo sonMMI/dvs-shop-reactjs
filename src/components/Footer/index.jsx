@@ -116,7 +116,7 @@ function Footer(props) {
           padding: '8px',
         }}
       >
-        © 2021 - Bản quyền thuộc về Công ty TNHH SonMMI
+        © 2022 - Bản quyền thuộc về Công ty TNHH SonMMI
       </Typography>
     </Box>
   );
